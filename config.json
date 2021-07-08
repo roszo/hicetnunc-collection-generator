@@ -1,5 +1,5 @@
 {
-  "ownerAddress": "tz1g7Aaac9ssD7cDUTngyXyx8QiVUsAVZCjQ",
+  "ownerAddress": "KT1HbQepzV1nVGg8QVznG7z4RcHseD5kwqBn",
   "cloudFlareUrl": "https://cloudflare-ipfs.com/ipfs/",
   "downloadPath": "./downloads",
   "largeImagePath": "./large-images",
@@ -30,7 +30,7 @@
       "sizes": [512]
     }
   },
-  "ignoreObjects": [17038, 17032, 9426, 9416, 9414, 9413, 25119, 17102],
-  "onlyObjects": [],
+  "ignoreObjects": [],
+  "onlyObjects": [160045, 160031, 159875, 158352, 158299, 158145, 147223, 146463, 145856, 145811, 144085, 143439, 140314, 139646, 139140, 138929, 138694, 138509, 137402, 135480, 135279, 134469, 131079, 130425, 127223, 126874, 126475, 124619, 123523, 119816, 115697, 104649, 95683, 79795, 64933, 64660, 58746, 49852, 45906, 34140, 26809],
   "forceGeneration": []
 }
